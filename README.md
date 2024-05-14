@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Choueb</h1>
-<h3 align="center">Computer Science student at University of Ottawa.</h3>
+<h3 align="center"> Fourth-year Computer Science student at University of Ottawa.</h3>
 
 <br>
 <br>
