@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Salah</h1>
+<h1 align="center">Hi 👋 , I'm Salah</h1>
 <h3 align="center">🚀 Fourth-Year Computer Science Student at the University of Ottawa</h3>
 
 <p align="center">
@@ -8,7 +8,7 @@
 ---
 
 ### 🧠 About Me
-- 🎓 I’m in my final year studying **Computer Science** at the **University of Ottawa**
+- 🎓 I’m in my final year studying Computer Science at the University of Ottawa
 - 💻 Passionate about full-stack development, cloud computing and software architecture
 - 📚 Always learning 
 
