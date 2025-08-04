@@ -9,9 +9,9 @@
 ---
 
 ### 🧠 About Me
-- 🎓 I’m in my final year studying Computer Science at the University of Ottawa
-- 💻 Passionate about full-stack development, cloud computing and software architecture
-- 📚 Always learning 
+-  I’m in my final year studying Computer Science at the University of Ottawa
+-  Passionate about full-stack development, cloud computing and software architecture
+-  Always learning 📚 
 
 ---
 
