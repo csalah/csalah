@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋 , I'm Salah</h1>
-<h3 align="center">🚀 Fourth-Year Computer Science Student at the University of Ottawa</h3>
+<h3 align="center">Fourth-Year Computer Science Student at the University of Ottawa</h3>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" alt="Coding" width="400" />
+  <img src="readme.gif" alt="Lottie Animation" />
 </p>
+
 
 ---
 
